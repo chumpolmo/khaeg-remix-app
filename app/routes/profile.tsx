@@ -5,7 +5,8 @@ function MyProfile() {
                 <h1 className="text-xl font-bold text-amber-700">My Profile</h1>
                 <p>
                     Name: Chumpol Mokarat<br />
-                    Student Code: 026799999999-9
+                    Student Code: 026799999999-9<br />
+                    Department: Information Technology
                 </p>
             </div>
             <MyEducation />
