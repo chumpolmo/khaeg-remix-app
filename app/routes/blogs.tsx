@@ -1,4 +1,4 @@
-function MyBolgs(){
+export default function MyBolgs(){
     var title = "xxx";
     var description = "Yyy...";
     var rating = 3;
@@ -68,4 +68,4 @@ function GetTop({ top }){
     return '';
 }
 
-export default MyBolgs;
+// export default MyBolgs;
